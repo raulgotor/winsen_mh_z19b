@@ -71,9 +71,13 @@
 
 
 <!-- ABOUT THE PROJECT
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraulgotor%2Fwinsen_mh_z19b.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraulgotor%2Fwinsen_mh_z19b?ref=badge_large)
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](iu.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraulgotor%2Fwinsen_mh_z19b.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraulgotor%2Fwinsen_mh_z19b?ref=badge_shield)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
